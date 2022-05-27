@@ -1,0 +1,7 @@
+.idea/*
+data/*
+
+cross validation/wandb/*
+cross validation/data/*
+*.tar
+__pycache__
